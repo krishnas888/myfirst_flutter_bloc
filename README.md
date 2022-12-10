@@ -4,13 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Implement bloc patter
+2.bloc Builder: Working with bloc Builder which may usefully to change the or update the widget,
+    without rebidding the hole widget tree, its only update the specific widget that need to update.
+3.bloc Listener: Working with listener, while taking some action its listen and update the in widget
+    tree.
+    
